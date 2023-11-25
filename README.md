@@ -42,4 +42,4 @@ The smart wallet's conception was meticulously crafted using CATIA, a cutting-ed
 
 ![image](https://github.com/IbrahimEssakine/CAO_Project-Smart-Wallet-/assets/103626975/986af57a-bb17-4f06-a61b-5f5ab874e16f)
 
-For detailed figures, specifications, and the CATIA conception model, please go to conception folder of that reposotry.
+For detailed figures, specifications, and the CATIA conception model, please go to catia files folder of that reposotry.
